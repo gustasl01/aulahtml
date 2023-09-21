@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+  color: brown;
+}
+
+p {
+  text-align: center;
+  color: rgb(221, 17, 17);
+}
+
+.flutter {
+  text-align: center;
+  color: brown;
+}
+
+.java {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: brown;
+
+}
+
+.butao {
+  color: blue;
+  background-color: black;
+}
+
+body {
+  background-color: aqua;
+}
